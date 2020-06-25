@@ -1,5 +1,5 @@
 # dwm-config
-personal customisation of dwm
+Personal customisation of dwm.
 
 The following patches have been added from the suckless patches for dwm(http://dwm.suckless.org/patches/):
 alpha, barheight, colorbar, fullgaps, nrowgrid.
